@@ -5,9 +5,13 @@ This is my github for academic and professional projects.
 You can find me on:
 
 -My website
+
 -LinkedIn
+
 -StackOverflow
+
 -Handshake
+
 -HiringCafe
 
 <!--
