@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 This is my github for academic and professional projects.
+
+I'm also on LinkedIn & stackoverflow.
 <!--
 **grammd/grammd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
