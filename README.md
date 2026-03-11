@@ -1,4 +1,4 @@
-## Hi there 👋
+## About my profile:
 
 This is my github for academic and professional projects.
 
