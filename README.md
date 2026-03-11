@@ -2,7 +2,14 @@
 
 This is my github for academic and professional projects.
 
-I'm also on LinkedIn & stackoverflow.
+You can find me on:
+
+-My website
+-LinkedIn
+-StackOverflow
+-Handshake
+-HiringCafe
+
 <!--
 **grammd/grammd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
