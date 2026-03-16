@@ -23,7 +23,7 @@ You can find me on:
 
 
 
-![Isometric Commits](metrics.isocalendar.svg)
+<!-- ![Isometric Commits](metrics.isocalendar.svg)
 
 
 
