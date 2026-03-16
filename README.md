@@ -1,6 +1,6 @@
 ## About my profile:
 
-This is my github for academic and professional projects. ![](https://gitwar.herokuapp.com/badge?username=grammd)
+This is my github for academic and professional projects.
 
 You can find me on:
 
