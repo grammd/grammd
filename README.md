@@ -14,12 +14,14 @@ You can find me on:
 -Handshake
 
 -HiringCafe
-
+<div> style="text-align: center;">
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=grammd&theme=aura_dark)  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=grammd&theme=aura_dark) 
 
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grammd&theme=aura_dark) 
+
+</div>
 
 ![Isometric GitHub Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=grammd&theme=neon&stats=true)
 
