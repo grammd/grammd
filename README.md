@@ -15,6 +15,10 @@ You can find me on:
 -HiringCafe
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=grammd&theme=aura_dark)  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=grammd&theme=aura_dark) 
+
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grammd&theme=aura_dark) 
 <!--
 **grammd/grammd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
