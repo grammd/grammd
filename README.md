@@ -1,6 +1,5 @@
 ## About my profile:
 
-![Metrics](https://metrics.lecoq.io/grammd)
 
 This is my github for academic and professional projects. 
 
