@@ -29,6 +29,9 @@ You can find me on:
 
 </div>
 
+## Skills: 
+
+
 <!-- [![dominic StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=32493724&layout=compact&theme=dark)](https://stackoverflow.com/users/32493724/dominic) -->
 
 <!--
