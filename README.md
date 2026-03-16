@@ -20,8 +20,6 @@ You can find me on:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grammd&theme=aura_dark) 
 
-![Metrics](https://metrics.lecoq.io/grammd?template=classic&base.hireable=true&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=America%2FDetroit)
-
 
 <!--
 **grammd/grammd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
