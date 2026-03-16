@@ -22,7 +22,9 @@ You can find me on:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grammd&theme=aura_dark) 
 
 
-![Metrics](https://metrics.lecoq.io/grammd?template=classic&base.activity=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FDetroit)
+
+![Metrics](https://metrics.lecoq.io/grammd)
+
 
 <!-- ![Isometric Commits](metrics.isocalendar.svg)
 
