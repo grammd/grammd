@@ -22,8 +22,6 @@ You can find me on:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grammd&theme=aura_dark) 
 
 
- ![Isometric Commits](metrics.isocalendar.svg)
-
 
 
 <!-- [![dominic StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=32493724&layout=compact&theme=dark)](https://stackoverflow.com/users/32493724/dominic) -->
