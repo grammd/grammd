@@ -23,6 +23,10 @@ You can find me on:
 
 
 
+![Isometric Commits](metrics.isocalendar.svg)
+
+
+
 <!-- [![dominic StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=32493724&layout=compact&theme=dark)](https://stackoverflow.com/users/32493724/dominic) -->
 
 <!--
