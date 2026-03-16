@@ -1,6 +1,6 @@
 ## About my profile:
 
-This is my github for academic and professional projects. [![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
+This is my github for academic and professional projects. https://badges.pufler.dev/visits/{grammd}/{grammd}
 
 You can find me on:
 
