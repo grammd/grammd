@@ -20,7 +20,6 @@ You can find me on:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grammd&theme=aura_dark) 
 
-[![dominic StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=32493724&layout=compact&theme=dark)](https://stackoverflow.com/users/32493724/dominic)
 
 <!--
 **grammd/grammd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
