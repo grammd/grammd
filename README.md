@@ -23,9 +23,11 @@ You can find me on:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grammd&theme=aura_dark) 
 
-</div>
+
 
 ![GitHub Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=grammd&width=800&theme=neon&stats=true)
+
+</div>
 
 <!-- [![dominic StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=32493724&layout=compact&theme=dark)](https://stackoverflow.com/users/32493724/dominic) -->
 
