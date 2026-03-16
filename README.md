@@ -1,6 +1,6 @@
 ## About my profile:
 
-This is my github for academic and professional projects. 
+This is my github for academic and professional projects. [![dominic StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=32493724&layout=compact&theme=dark)](https://stackoverflow.com/users/32493724/dominic)
 
 You can find me on:
 
