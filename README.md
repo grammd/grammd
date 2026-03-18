@@ -11,9 +11,6 @@ You can find me on:
 
 -StackOverflow
 
--Handshake
-
--HiringCafe
  
 <div align="center">
 
