@@ -22,7 +22,6 @@ You can find me on:
 
 
 
-![GitHub Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=grammd&width=750&theme=neon&stats=true)
 
 </div>
 
