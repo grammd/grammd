@@ -1,15 +1,61 @@
 ## About my profile:
 
-
 This is my github for academic and professional projects. 
 
 You can find me on:
 
 -My website
-
 -LinkedIn
-
 -StackOverflow
+
+## Skills:
+
+-C++
+-Python
+-HTML
+-CSS
+-JavaScript
+-TypeScript
+-PHP
+-LaTeX
+-Markdown
+-SQL & SQL Server
+-MS Access
+-Cypher
+-Neo4j
+-Powershell
+-Bash
+-Git
+-zsh
+-ladder logic
+
+Networking & IS:
+-Docker
+-AWS
+-Wireshark
+-VMware & VirtualBox
+-WSL
+
+Math:
+-MATLAB
+-Lean
+
+UX:
+-SolidWorks
+-Figma
+-Adobe CC
+-Obsidian
+-MS Office 365
+-Miro
+
+AI:
+-Claude Code
+-OpenAI Codex
+-Notion
+-Framer
+-Cursor
+-Windsurf
+
 
 <!--
  
