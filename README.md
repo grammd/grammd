@@ -20,6 +20,7 @@ You can find me on:
 -LaTeX
 -Markdown
 -SQL & SQL Server
+-Tableau
 -MS Access
 -Cypher
 -Neo4j
