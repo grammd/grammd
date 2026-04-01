@@ -47,6 +47,10 @@ UX:
 -Obsidian
 -MS Office 365
 -Miro
+-Astro
+-Wordpress
+-Vercel
+-Spline
 
 AI:
 -Claude Code
@@ -55,6 +59,12 @@ AI:
 -Framer
 -Cursor
 -Windsurf
+-Linear
+-Builder.io
+-Runway
+-NotebookLM
+-Camber
+-LlamaIndex
 
 
 <!--
