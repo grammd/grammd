@@ -65,7 +65,7 @@ AI:
 -NotebookLM
 -Camber
 -LlamaIndex
-
+-Lovable
 
 <!--
  
