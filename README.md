@@ -39,7 +39,6 @@ Networking & IS:
 
 Math:
 -MATLAB
--Lean
 
 UX:
 -SolidWorks
