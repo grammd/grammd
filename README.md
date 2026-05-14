@@ -5,7 +5,9 @@ This is my github for both academic and professional projects.
 You can find me on:
 
 -My website
+
 -LinkedIn
+
 -StackOverflow/StackExchange
 
 ## Skills:
