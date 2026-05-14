@@ -1,12 +1,12 @@
-## About my profile:
+## About:
 
-This is my github for academic and professional projects. 
+This is my github for both academic and professional projects.
 
 You can find me on:
 
 -My website
 -LinkedIn
--StackOverflow
+-StackOverflow/StackExchange
 
 ## Skills:
 
@@ -27,18 +27,12 @@ You can find me on:
 -Powershell
 -Bash
 -Git
--zsh
--ladder logic
 
 Networking & IS:
--Docker
 -AWS
 -Wireshark
 -VMware & VirtualBox
 -WSL
-
-Math:
--MATLAB
 
 UX:
 -SolidWorks
