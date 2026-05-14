@@ -12,6 +12,7 @@ You can find me on:
 
 ## Skills:
 
+Programming:
 -C++
 -Python
 -HTML
