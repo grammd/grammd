@@ -47,12 +47,10 @@ UX:
 -Astro
 -Wordpress
 -Vercel
--Spline
 
 AI:
 -Claude Code
 -OpenAI Codex
--Notion
 -Framer
 -Cursor
 -Windsurf
@@ -60,7 +58,6 @@ AI:
 -Builder.io
 -Runway
 -NotebookLM
--Camber
 -LlamaIndex
 -Lovable
 
